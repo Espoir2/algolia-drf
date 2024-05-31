@@ -1,0 +1,308 @@
+COOKIES
+{}
+*****************
+
+FILES
+<MultiValueDict: {}>
+*****************
+
+GET
+<QueryDict: {'abc': ['123']}>
+*****************
+
+META
+{'SHELL': '/bin/bash', 'SESSION_MANAGER': 'local/phenixServer:@/tmp/.ICE-unix/2427,unix/phenixServer:/tmp/.ICE-unix/2427', 'QT_ACCESSIBILITY': '1', 'COLORTERM': 'truecolor', 'PYENV_SHELL': 'bash', 'XDG_CONFIG_DIRS': '/etc/xdg/xdg-ubuntu:/etc/xdg', 'SSH_AGENT_LAUNCHER': 'gnome-keyring', 'NVM_INC': '/home/phenix/.nvm/versions/node/v17.0.1/include/node', 'XDG_MENU_PREFIX': 'gnome-', 'TERM_PROGRAM_VERSION': '1.89.1', 'XDG_CONFIG_DIRS_VSCODE_SNAP_ORIG': '/etc/xdg/xdg-ubuntu:/etc/xdg', 'GNOME_DESKTOP_SESSION_ID': 'this-is-deprecated', 'GDK_BACKEND_VSCODE_SNAP_ORIG': '', 'LANGUAGE': 'en_US:en', 'LC_ADDRESS': 'en_US.UTF-8', 'GIO_MODULE_DIR_VSCODE_SNAP_ORIG': '', 'GNOME_SHELL_SESSION_MODE': 'ubuntu', 'LC_NAME': 'en_US.UTF-8', 'SSH_AUTH_SOCK': '/run/user/1000/keyring/ssh', 'OPENAI_API_KEY': 'api_key_removed', 'XMODIFIERS': '@im=ibus', 'DESKTOP_SESSION': 'ubuntu', 'LC_MONETARY': 'en_US.UTF-8', 'BAMF_DESKTOP_FILE_HINT': '/var/lib/snapd/desktop/applications/code_code.desktop', 'GTK_MODULES': 'gail:atk-bridge', 'DBUS_STARTER_BUS_TYPE': 'session', 'PWD': '/home/phenix/Desktop/New Skills/DRF/drf-algolia/backend', 'PYENV_VIRTUALENV_INIT': '1', 'GSETTINGS_SCHEMA_DIR': '/home/phenix/snap/code/159/.local/share/glib-2.0/schemas', 'XDG_SESSION_DESKTOP': 'ubuntu', 'LOGNAME': 'phenix', 'GTK_EXE_PREFIX': '/snap/code/159/usr', 'XDG_SESSION_TYPE': 'wayland', 'SYSTEMD_EXEC_PID': '2427', 'XAUTHORITY': '/run/user/1000/.mutter-Xwaylandauth.8C5DO2', 'VSCODE_GIT_ASKPASS_NODE': '/snap/code/159/usr/share/code/code', 'IM_CONFIG_CHECK_ENV': '1', 'HOME': '/home/phenix', 'USERNAME': 'phenix', 'IM_CONFIG_PHASE': '1', 'LC_PAPER': 'en_US.UTF-8', 'LANG': 'en_US.UTF-8', 'LS_COLORS': 'rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.webp=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:', 'XDG_CURRENT_DESKTOP': 'Unity', 'VIRTUAL_ENV': '/home/phenix/Desktop/New Skills/DRF/drf-algolia/valgolia', 'WAYLAND_DISPLAY': 'wayland-0', 'GIT_ASKPASS': '/snap/code/159/usr/share/code/resources/app/extensions/git/dist/askpass.sh', 'INVOCATION_ID': '2f043118ee404242aa385bd66fae5c51', 'MANAGERPID': '2240', 'CHROME_DESKTOP': 'code-url-handler.desktop', 'NVM_DIR': '/home/phenix/.nvm', 'VSCODE_GIT_ASKPASS_EXTRA_ARGS': '', 'GNOME_SETUP_DISPLAY': ':1', 'GSETTINGS_SCHEMA_DIR_VSCODE_SNAP_ORIG': '', 'GTK_IM_MODULE_FILE_VSCODE_SNAP_ORIG': '', 'LESSCLOSE': '/usr/bin/lesspipe %s %s', 'XDG_SESSION_CLASS': 'user', 'TERM': 'xterm-256color', 'LC_IDENTIFICATION': 'en_US.UTF-8', 'GTK_PATH': '/snap/code/159/usr/lib/x86_64-linux-gnu/gtk-3.0', 'LESSOPEN': '| /usr/bin/lesspipe %s', 'USER': 'phenix', 'GTK_PATH_VSCODE_SNAP_ORIG': '', 'VSCODE_GIT_IPC_HANDLE': '/run/user/1000/vscode-git-1270faf47c.sock', 'DISPLAY': ':0', 'SHLVL': '2', 'NVM_CD_FLAGS': '', 'LOCPATH': '/snap/code/159/usr/lib/locale', 'LC_TELEPHONE': 'en_US.UTF-8', 'QT_IM_MODULE': 'ibus', 'LC_MEASUREMENT': 'en_US.UTF-8', 'GTK_EXE_PREFIX_VSCODE_SNAP_ORIG': '', 'PAPERSIZE': 'letter', 'DBUS_STARTER_ADDRESS': 'unix:path=/run/user/1000/bus,guid=9a76e47ed0cfa5af7ad77c3f6656e5d2', 'VIRTUAL_ENV_PROMPT': '(valgolia) ', 'XDG_RUNTIME_DIR': '/run/user/1000', 'PS1': '\\[\x1b]633;A\x07\\](valgolia) \\[\\e]0;\\u@\\h: \\w\\a\\]${debian_chroot:+($debian_chroot)}\\[\\033[01;32m\\]\\u@\\h\\[\\033[00m\\]:\\[\\033[01;34m\\]\\w\\[\\033[00m\\]\\$ \\[\x1b]633;B\x07\\]', 'XDG_DATA_DIRS_VSCODE_SNAP_ORIG': '/usr/share/ubuntu:/usr/local/share/:/usr/share/:/var/lib/snapd/desktop', 'LC_TIME': 'en_US.UTF-8', 'VSCODE_GIT_ASKPASS_MAIN': '/snap/code/159/usr/share/code/resources/app/extensions/git/dist/askpass-main.js', 'JOURNAL_STREAM': '8:33586', 'XDG_DATA_DIRS': '/home/phenix/snap/code/159/.local/share:/home/phenix/snap/code/159:/snap/code/159/usr/share:/usr/share/ubuntu:/usr/local/share/:/usr/share/:/var/lib/snapd/desktop', 'GDK_BACKEND': 'x11', 'PATH': '/home/phenix/.vscode/extensions/ms-python.python-2024.6.0/python_files/deactivate/bash:/home/phenix/Desktop/New Skills/DRF/drf-algolia/valgolia/bin:/home/phenix/.pyenv/plugins/pyenv-virtualenv/shims:/home/phenix/.pyenv/shims:~/.pyenv/bin:/home/phenix/.vscode/extensions/ms-python.python-2024.6.0/python_files/deactivate/bash:/home/phenix/Desktop/New Skills/DRF/drf-algolia/valgolia/bin:/home/phenix/.local/bin:/home/phenix/.pyenv/plugins/pyenv-virtualenv/shims:~/.pyenv/bin:/home/phenix/.nvm/versions/node/v17.0.1/bin:/home/phenix/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/snap/bin', 'GDMSESSION': 'ubuntu', 'ORIGINAL_XDG_CURRENT_DESKTOP': 'ubuntu:GNOME', 'GTK_IM_MODULE_FILE': '/home/phenix/snap/code/common/.cache/immodules/immodules.cache', 'DBUS_SESSION_BUS_ADDRESS': 'unix:path=/run/user/1000/bus,guid=9a76e47ed0cfa5af7ad77c3f6656e5d2', 'NVM_BIN': '/home/phenix/.nvm/versions/node/v17.0.1/bin', 'LOCPATH_VSCODE_SNAP_ORIG': '', 'GIO_MODULE_DIR': '/home/phenix/snap/code/common/.cache/gio-modules', 'GIO_LAUNCHED_DESKTOP_FILE_PID': '13555', 'GIO_LAUNCHED_DESKTOP_FILE': '/var/lib/snapd/desktop/applications/code_code.desktop', 'LC_NUMERIC': 'en_US.UTF-8', 'TERM_PROGRAM': 'vscode', '_': '/home/phenix/Desktop/New Skills/DRF/drf-algolia/valgolia/bin/python', 'DJANGO_SETTINGS_MODULE': 'algolia.settings', 'TZ': 'UTC', 'RUN_MAIN': 'true', 'SERVER_NAME': 'localhost', 'GATEWAY_INTERFACE': 'CGI/1.1', 'SERVER_PORT': '8000', 'REMOTE_HOST': '', 'CONTENT_LENGTH': '', 'SCRIPT_NAME': '', 'SERVER_PROTOCOL': 'HTTP/1.1', 'SERVER_SOFTWARE': 'WSGIServer/0.2', 'REQUEST_METHOD': 'GET', 'PATH_INFO': '/api/', 'QUERY_STRING': 'abc=123', 'REMOTE_ADDR': '127.0.0.1', 'CONTENT_TYPE': 'text/plain', 'HTTP_HOST': 'localhost:8000', 'HTTP_USER_AGENT': 'python-requests/2.32.2', 'HTTP_ACCEPT_ENCODING': 'gzip, deflate', 'HTTP_ACCEPT': '*/*', 'HTTP_CONNECTION': 'keep-alive', 'wsgi.input': <django.core.handlers.wsgi.LimitedStream object at 0x7afa7c68f580>, 'wsgi.errors': <_io.TextIOWrapper name='<stderr>' mode='w' encoding='utf-8'>, 'wsgi.version': (1, 0), 'wsgi.run_once': False, 'wsgi.url_scheme': 'http', 'wsgi.multithread': True, 'wsgi.multiprocess': False, 'wsgi.file_wrapper': <class 'wsgiref.util.FileWrapper'>}
+*****************
+
+POST
+<QueryDict: {}>
+*****************
+
+__class__
+<class 'django.core.handlers.wsgi.WSGIRequest'>
+*****************
+
+__delattr__
+<method-wrapper '__delattr__' of WSGIRequest object at 0x7afa7c68f6a0>
+*****************
+
+__dict__
+{'environ': {'SHELL': '/bin/bash', 'SESSION_MANAGER': 'local/phenixServer:@/tmp/.ICE-unix/2427,unix/phenixServer:/tmp/.ICE-unix/2427', 'QT_ACCESSIBILITY': '1', 'COLORTERM': 'truecolor', 'PYENV_SHELL': 'bash', 'XDG_CONFIG_DIRS': '/etc/xdg/xdg-ubuntu:/etc/xdg', 'SSH_AGENT_LAUNCHER': 'gnome-keyring', 'NVM_INC': '/home/phenix/.nvm/versions/node/v17.0.1/include/node', 'XDG_MENU_PREFIX': 'gnome-', 'TERM_PROGRAM_VERSION': '1.89.1', 'XDG_CONFIG_DIRS_VSCODE_SNAP_ORIG': '/etc/xdg/xdg-ubuntu:/etc/xdg', 'GNOME_DESKTOP_SESSION_ID': 'this-is-deprecated', 'GDK_BACKEND_VSCODE_SNAP_ORIG': '', 'LANGUAGE': 'en_US:en', 'LC_ADDRESS': 'en_US.UTF-8', 'GIO_MODULE_DIR_VSCODE_SNAP_ORIG': '', 'GNOME_SHELL_SESSION_MODE': 'ubuntu', 'LC_NAME': 'en_US.UTF-8', 'SSH_AUTH_SOCK': '/run/user/1000/keyring/ssh', 'OPENAI_API_KEY': 'api_key_removed', 'XMODIFIERS': '@im=ibus', 'DESKTOP_SESSION': 'ubuntu', 'LC_MONETARY': 'en_US.UTF-8', 'BAMF_DESKTOP_FILE_HINT': '/var/lib/snapd/desktop/applications/code_code.desktop', 'GTK_MODULES': 'gail:atk-bridge', 'DBUS_STARTER_BUS_TYPE': 'session', 'PWD': '/home/phenix/Desktop/New Skills/DRF/drf-algolia/backend', 'PYENV_VIRTUALENV_INIT': '1', 'GSETTINGS_SCHEMA_DIR': '/home/phenix/snap/code/159/.local/share/glib-2.0/schemas', 'XDG_SESSION_DESKTOP': 'ubuntu', 'LOGNAME': 'phenix', 'GTK_EXE_PREFIX': '/snap/code/159/usr', 'XDG_SESSION_TYPE': 'wayland', 'SYSTEMD_EXEC_PID': '2427', 'XAUTHORITY': '/run/user/1000/.mutter-Xwaylandauth.8C5DO2', 'VSCODE_GIT_ASKPASS_NODE': '/snap/code/159/usr/share/code/code', 'IM_CONFIG_CHECK_ENV': '1', 'HOME': '/home/phenix', 'USERNAME': 'phenix', 'IM_CONFIG_PHASE': '1', 'LC_PAPER': 'en_US.UTF-8', 'LANG': 'en_US.UTF-8', 'LS_COLORS': 'rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.webp=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:', 'XDG_CURRENT_DESKTOP': 'Unity', 'VIRTUAL_ENV': '/home/phenix/Desktop/New Skills/DRF/drf-algolia/valgolia', 'WAYLAND_DISPLAY': 'wayland-0', 'GIT_ASKPASS': '/snap/code/159/usr/share/code/resources/app/extensions/git/dist/askpass.sh', 'INVOCATION_ID': '2f043118ee404242aa385bd66fae5c51', 'MANAGERPID': '2240', 'CHROME_DESKTOP': 'code-url-handler.desktop', 'NVM_DIR': '/home/phenix/.nvm', 'VSCODE_GIT_ASKPASS_EXTRA_ARGS': '', 'GNOME_SETUP_DISPLAY': ':1', 'GSETTINGS_SCHEMA_DIR_VSCODE_SNAP_ORIG': '', 'GTK_IM_MODULE_FILE_VSCODE_SNAP_ORIG': '', 'LESSCLOSE': '/usr/bin/lesspipe %s %s', 'XDG_SESSION_CLASS': 'user', 'TERM': 'xterm-256color', 'LC_IDENTIFICATION': 'en_US.UTF-8', 'GTK_PATH': '/snap/code/159/usr/lib/x86_64-linux-gnu/gtk-3.0', 'LESSOPEN': '| /usr/bin/lesspipe %s', 'USER': 'phenix', 'GTK_PATH_VSCODE_SNAP_ORIG': '', 'VSCODE_GIT_IPC_HANDLE': '/run/user/1000/vscode-git-1270faf47c.sock', 'DISPLAY': ':0', 'SHLVL': '2', 'NVM_CD_FLAGS': '', 'LOCPATH': '/snap/code/159/usr/lib/locale', 'LC_TELEPHONE': 'en_US.UTF-8', 'QT_IM_MODULE': 'ibus', 'LC_MEASUREMENT': 'en_US.UTF-8', 'GTK_EXE_PREFIX_VSCODE_SNAP_ORIG': '', 'PAPERSIZE': 'letter', 'DBUS_STARTER_ADDRESS': 'unix:path=/run/user/1000/bus,guid=9a76e47ed0cfa5af7ad77c3f6656e5d2', 'VIRTUAL_ENV_PROMPT': '(valgolia) ', 'XDG_RUNTIME_DIR': '/run/user/1000', 'PS1': '\\[\x1b]633;A\x07\\](valgolia) \\[\\e]0;\\u@\\h: \\w\\a\\]${debian_chroot:+($debian_chroot)}\\[\\033[01;32m\\]\\u@\\h\\[\\033[00m\\]:\\[\\033[01;34m\\]\\w\\[\\033[00m\\]\\$ \\[\x1b]633;B\x07\\]', 'XDG_DATA_DIRS_VSCODE_SNAP_ORIG': '/usr/share/ubuntu:/usr/local/share/:/usr/share/:/var/lib/snapd/desktop', 'LC_TIME': 'en_US.UTF-8', 'VSCODE_GIT_ASKPASS_MAIN': '/snap/code/159/usr/share/code/resources/app/extensions/git/dist/askpass-main.js', 'JOURNAL_STREAM': '8:33586', 'XDG_DATA_DIRS': '/home/phenix/snap/code/159/.local/share:/home/phenix/snap/code/159:/snap/code/159/usr/share:/usr/share/ubuntu:/usr/local/share/:/usr/share/:/var/lib/snapd/desktop', 'GDK_BACKEND': 'x11', 'PATH': '/home/phenix/.vscode/extensions/ms-python.python-2024.6.0/python_files/deactivate/bash:/home/phenix/Desktop/New Skills/DRF/drf-algolia/valgolia/bin:/home/phenix/.pyenv/plugins/pyenv-virtualenv/shims:/home/phenix/.pyenv/shims:~/.pyenv/bin:/home/phenix/.vscode/extensions/ms-python.python-2024.6.0/python_files/deactivate/bash:/home/phenix/Desktop/New Skills/DRF/drf-algolia/valgolia/bin:/home/phenix/.local/bin:/home/phenix/.pyenv/plugins/pyenv-virtualenv/shims:~/.pyenv/bin:/home/phenix/.nvm/versions/node/v17.0.1/bin:/home/phenix/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/snap/bin', 'GDMSESSION': 'ubuntu', 'ORIGINAL_XDG_CURRENT_DESKTOP': 'ubuntu:GNOME', 'GTK_IM_MODULE_FILE': '/home/phenix/snap/code/common/.cache/immodules/immodules.cache', 'DBUS_SESSION_BUS_ADDRESS': 'unix:path=/run/user/1000/bus,guid=9a76e47ed0cfa5af7ad77c3f6656e5d2', 'NVM_BIN': '/home/phenix/.nvm/versions/node/v17.0.1/bin', 'LOCPATH_VSCODE_SNAP_ORIG': '', 'GIO_MODULE_DIR': '/home/phenix/snap/code/common/.cache/gio-modules', 'GIO_LAUNCHED_DESKTOP_FILE_PID': '13555', 'GIO_LAUNCHED_DESKTOP_FILE': '/var/lib/snapd/desktop/applications/code_code.desktop', 'LC_NUMERIC': 'en_US.UTF-8', 'TERM_PROGRAM': 'vscode', '_': '/home/phenix/Desktop/New Skills/DRF/drf-algolia/valgolia/bin/python', 'DJANGO_SETTINGS_MODULE': 'algolia.settings', 'TZ': 'UTC', 'RUN_MAIN': 'true', 'SERVER_NAME': 'localhost', 'GATEWAY_INTERFACE': 'CGI/1.1', 'SERVER_PORT': '8000', 'REMOTE_HOST': '', 'CONTENT_LENGTH': '', 'SCRIPT_NAME': '', 'SERVER_PROTOCOL': 'HTTP/1.1', 'SERVER_SOFTWARE': 'WSGIServer/0.2', 'REQUEST_METHOD': 'GET', 'PATH_INFO': '/api/', 'QUERY_STRING': 'abc=123', 'REMOTE_ADDR': '127.0.0.1', 'CONTENT_TYPE': 'text/plain', 'HTTP_HOST': 'localhost:8000', 'HTTP_USER_AGENT': 'python-requests/2.32.2', 'HTTP_ACCEPT_ENCODING': 'gzip, deflate', 'HTTP_ACCEPT': '*/*', 'HTTP_CONNECTION': 'keep-alive', 'wsgi.input': <django.core.handlers.wsgi.LimitedStream object at 0x7afa7c68f580>, 'wsgi.errors': <_io.TextIOWrapper name='<stderr>' mode='w' encoding='utf-8'>, 'wsgi.version': (1, 0), 'wsgi.run_once': False, 'wsgi.url_scheme': 'http', 'wsgi.multithread': True, 'wsgi.multiprocess': False, 'wsgi.file_wrapper': <class 'wsgiref.util.FileWrapper'>}, 'path_info': '/api/', 'path': '/api/', 'META': {'SHELL': '/bin/bash', 'SESSION_MANAGER': 'local/phenixServer:@/tmp/.ICE-unix/2427,unix/phenixServer:/tmp/.ICE-unix/2427', 'QT_ACCESSIBILITY': '1', 'COLORTERM': 'truecolor', 'PYENV_SHELL': 'bash', 'XDG_CONFIG_DIRS': '/etc/xdg/xdg-ubuntu:/etc/xdg', 'SSH_AGENT_LAUNCHER': 'gnome-keyring', 'NVM_INC': '/home/phenix/.nvm/versions/node/v17.0.1/include/node', 'XDG_MENU_PREFIX': 'gnome-', 'TERM_PROGRAM_VERSION': '1.89.1', 'XDG_CONFIG_DIRS_VSCODE_SNAP_ORIG': '/etc/xdg/xdg-ubuntu:/etc/xdg', 'GNOME_DESKTOP_SESSION_ID': 'this-is-deprecated', 'GDK_BACKEND_VSCODE_SNAP_ORIG': '', 'LANGUAGE': 'en_US:en', 'LC_ADDRESS': 'en_US.UTF-8', 'GIO_MODULE_DIR_VSCODE_SNAP_ORIG': '', 'GNOME_SHELL_SESSION_MODE': 'ubuntu', 'LC_NAME': 'en_US.UTF-8', 'SSH_AUTH_SOCK': '/run/user/1000/keyring/ssh', 'OPENAI_API_KEY': 'api_key_removed', 'XMODIFIERS': '@im=ibus', 'DESKTOP_SESSION': 'ubuntu', 'LC_MONETARY': 'en_US.UTF-8', 'BAMF_DESKTOP_FILE_HINT': '/var/lib/snapd/desktop/applications/code_code.desktop', 'GTK_MODULES': 'gail:atk-bridge', 'DBUS_STARTER_BUS_TYPE': 'session', 'PWD': '/home/phenix/Desktop/New Skills/DRF/drf-algolia/backend', 'PYENV_VIRTUALENV_INIT': '1', 'GSETTINGS_SCHEMA_DIR': '/home/phenix/snap/code/159/.local/share/glib-2.0/schemas', 'XDG_SESSION_DESKTOP': 'ubuntu', 'LOGNAME': 'phenix', 'GTK_EXE_PREFIX': '/snap/code/159/usr', 'XDG_SESSION_TYPE': 'wayland', 'SYSTEMD_EXEC_PID': '2427', 'XAUTHORITY': '/run/user/1000/.mutter-Xwaylandauth.8C5DO2', 'VSCODE_GIT_ASKPASS_NODE': '/snap/code/159/usr/share/code/code', 'IM_CONFIG_CHECK_ENV': '1', 'HOME': '/home/phenix', 'USERNAME': 'phenix', 'IM_CONFIG_PHASE': '1', 'LC_PAPER': 'en_US.UTF-8', 'LANG': 'en_US.UTF-8', 'LS_COLORS': 'rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.webp=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:', 'XDG_CURRENT_DESKTOP': 'Unity', 'VIRTUAL_ENV': '/home/phenix/Desktop/New Skills/DRF/drf-algolia/valgolia', 'WAYLAND_DISPLAY': 'wayland-0', 'GIT_ASKPASS': '/snap/code/159/usr/share/code/resources/app/extensions/git/dist/askpass.sh', 'INVOCATION_ID': '2f043118ee404242aa385bd66fae5c51', 'MANAGERPID': '2240', 'CHROME_DESKTOP': 'code-url-handler.desktop', 'NVM_DIR': '/home/phenix/.nvm', 'VSCODE_GIT_ASKPASS_EXTRA_ARGS': '', 'GNOME_SETUP_DISPLAY': ':1', 'GSETTINGS_SCHEMA_DIR_VSCODE_SNAP_ORIG': '', 'GTK_IM_MODULE_FILE_VSCODE_SNAP_ORIG': '', 'LESSCLOSE': '/usr/bin/lesspipe %s %s', 'XDG_SESSION_CLASS': 'user', 'TERM': 'xterm-256color', 'LC_IDENTIFICATION': 'en_US.UTF-8', 'GTK_PATH': '/snap/code/159/usr/lib/x86_64-linux-gnu/gtk-3.0', 'LESSOPEN': '| /usr/bin/lesspipe %s', 'USER': 'phenix', 'GTK_PATH_VSCODE_SNAP_ORIG': '', 'VSCODE_GIT_IPC_HANDLE': '/run/user/1000/vscode-git-1270faf47c.sock', 'DISPLAY': ':0', 'SHLVL': '2', 'NVM_CD_FLAGS': '', 'LOCPATH': '/snap/code/159/usr/lib/locale', 'LC_TELEPHONE': 'en_US.UTF-8', 'QT_IM_MODULE': 'ibus', 'LC_MEASUREMENT': 'en_US.UTF-8', 'GTK_EXE_PREFIX_VSCODE_SNAP_ORIG': '', 'PAPERSIZE': 'letter', 'DBUS_STARTER_ADDRESS': 'unix:path=/run/user/1000/bus,guid=9a76e47ed0cfa5af7ad77c3f6656e5d2', 'VIRTUAL_ENV_PROMPT': '(valgolia) ', 'XDG_RUNTIME_DIR': '/run/user/1000', 'PS1': '\\[\x1b]633;A\x07\\](valgolia) \\[\\e]0;\\u@\\h: \\w\\a\\]${debian_chroot:+($debian_chroot)}\\[\\033[01;32m\\]\\u@\\h\\[\\033[00m\\]:\\[\\033[01;34m\\]\\w\\[\\033[00m\\]\\$ \\[\x1b]633;B\x07\\]', 'XDG_DATA_DIRS_VSCODE_SNAP_ORIG': '/usr/share/ubuntu:/usr/local/share/:/usr/share/:/var/lib/snapd/desktop', 'LC_TIME': 'en_US.UTF-8', 'VSCODE_GIT_ASKPASS_MAIN': '/snap/code/159/usr/share/code/resources/app/extensions/git/dist/askpass-main.js', 'JOURNAL_STREAM': '8:33586', 'XDG_DATA_DIRS': '/home/phenix/snap/code/159/.local/share:/home/phenix/snap/code/159:/snap/code/159/usr/share:/usr/share/ubuntu:/usr/local/share/:/usr/share/:/var/lib/snapd/desktop', 'GDK_BACKEND': 'x11', 'PATH': '/home/phenix/.vscode/extensions/ms-python.python-2024.6.0/python_files/deactivate/bash:/home/phenix/Desktop/New Skills/DRF/drf-algolia/valgolia/bin:/home/phenix/.pyenv/plugins/pyenv-virtualenv/shims:/home/phenix/.pyenv/shims:~/.pyenv/bin:/home/phenix/.vscode/extensions/ms-python.python-2024.6.0/python_files/deactivate/bash:/home/phenix/Desktop/New Skills/DRF/drf-algolia/valgolia/bin:/home/phenix/.local/bin:/home/phenix/.pyenv/plugins/pyenv-virtualenv/shims:~/.pyenv/bin:/home/phenix/.nvm/versions/node/v17.0.1/bin:/home/phenix/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/snap/bin', 'GDMSESSION': 'ubuntu', 'ORIGINAL_XDG_CURRENT_DESKTOP': 'ubuntu:GNOME', 'GTK_IM_MODULE_FILE': '/home/phenix/snap/code/common/.cache/immodules/immodules.cache', 'DBUS_SESSION_BUS_ADDRESS': 'unix:path=/run/user/1000/bus,guid=9a76e47ed0cfa5af7ad77c3f6656e5d2', 'NVM_BIN': '/home/phenix/.nvm/versions/node/v17.0.1/bin', 'LOCPATH_VSCODE_SNAP_ORIG': '', 'GIO_MODULE_DIR': '/home/phenix/snap/code/common/.cache/gio-modules', 'GIO_LAUNCHED_DESKTOP_FILE_PID': '13555', 'GIO_LAUNCHED_DESKTOP_FILE': '/var/lib/snapd/desktop/applications/code_code.desktop', 'LC_NUMERIC': 'en_US.UTF-8', 'TERM_PROGRAM': 'vscode', '_': '/home/phenix/Desktop/New Skills/DRF/drf-algolia/valgolia/bin/python', 'DJANGO_SETTINGS_MODULE': 'algolia.settings', 'TZ': 'UTC', 'RUN_MAIN': 'true', 'SERVER_NAME': 'localhost', 'GATEWAY_INTERFACE': 'CGI/1.1', 'SERVER_PORT': '8000', 'REMOTE_HOST': '', 'CONTENT_LENGTH': '', 'SCRIPT_NAME': '', 'SERVER_PROTOCOL': 'HTTP/1.1', 'SERVER_SOFTWARE': 'WSGIServer/0.2', 'REQUEST_METHOD': 'GET', 'PATH_INFO': '/api/', 'QUERY_STRING': 'abc=123', 'REMOTE_ADDR': '127.0.0.1', 'CONTENT_TYPE': 'text/plain', 'HTTP_HOST': 'localhost:8000', 'HTTP_USER_AGENT': 'python-requests/2.32.2', 'HTTP_ACCEPT_ENCODING': 'gzip, deflate', 'HTTP_ACCEPT': '*/*', 'HTTP_CONNECTION': 'keep-alive', 'wsgi.input': <django.core.handlers.wsgi.LimitedStream object at 0x7afa7c68f580>, 'wsgi.errors': <_io.TextIOWrapper name='<stderr>' mode='w' encoding='utf-8'>, 'wsgi.version': (1, 0), 'wsgi.run_once': False, 'wsgi.url_scheme': 'http', 'wsgi.multithread': True, 'wsgi.multiprocess': False, 'wsgi.file_wrapper': <class 'wsgiref.util.FileWrapper'>}, 'method': 'GET', 'content_type': 'text/plain', 'content_params': {}, '_stream': <django.core.handlers.wsgi.LimitedStream object at 0x7afa7c68f880>, '_read_started': False, 'resolver_match': ResolverMatch(func=api.views.api_home, args=(), kwargs={}, url_name=None, app_names=[], namespaces=[], route='api/'), 'COOKIES': {}, 'session': <django.contrib.sessions.backends.db.SessionStore object at 0x7afa7c68f8e0>, 'user': <SimpleLazyObject: <function AuthenticationMiddleware.process_request.<locals>.<lambda> at 0x7afa7c50ef80>>, 'auser': functools.partial(<function auser at 0x7afa7cf4ee60>, <WSGIRequest: GET '/api/?abc=123'>), '_messages': <FallbackStorage: request=<WSGIRequest: GET '/api/?abc=123'>>, 'csrf_processing_done': True, '_post': <QueryDict: {}>, '_files': <MultiValueDict: {}>, 'GET': <QueryDict: {'abc': ['123']}>}
+*****************
+
+__dir__
+<built-in method __dir__ of WSGIRequest object at 0x7afa7c68f6a0>
+*****************
+
+__doc__
+None
+*****************
+
+__eq__
+<method-wrapper '__eq__' of WSGIRequest object at 0x7afa7c68f6a0>
+*****************
+
+__format__
+<built-in method __format__ of WSGIRequest object at 0x7afa7c68f6a0>
+*****************
+
+__ge__
+<method-wrapper '__ge__' of WSGIRequest object at 0x7afa7c68f6a0>
+*****************
+
+__getattribute__
+<method-wrapper '__getattribute__' of WSGIRequest object at 0x7afa7c68f6a0>
+*****************
+
+__gt__
+<method-wrapper '__gt__' of WSGIRequest object at 0x7afa7c68f6a0>
+*****************
+
+__hash__
+<method-wrapper '__hash__' of WSGIRequest object at 0x7afa7c68f6a0>
+*****************
+
+__init__
+<bound method WSGIRequest.__init__ of <WSGIRequest: GET '/api/?abc=123'>>
+*****************
+
+__init_subclass__
+<built-in method __init_subclass__ of type object at 0x56ae269ffa30>
+*****************
+
+__iter__
+<bound method HttpRequest.__iter__ of <WSGIRequest: GET '/api/?abc=123'>>
+*****************
+
+__le__
+<method-wrapper '__le__' of WSGIRequest object at 0x7afa7c68f6a0>
+*****************
+
+__lt__
+<method-wrapper '__lt__' of WSGIRequest object at 0x7afa7c68f6a0>
+*****************
+
+__module__
+django.core.handlers.wsgi
+*****************
+
+__ne__
+<method-wrapper '__ne__' of WSGIRequest object at 0x7afa7c68f6a0>
+*****************
+
+__new__
+<built-in method __new__ of type object at 0x56ae2609c800>
+*****************
+
+__reduce__
+<built-in method __reduce__ of WSGIRequest object at 0x7afa7c68f6a0>
+*****************
+
+__reduce_ex__
+<built-in method __reduce_ex__ of WSGIRequest object at 0x7afa7c68f6a0>
+*****************
+
+__repr__
+<bound method HttpRequest.__repr__ of <WSGIRequest: GET '/api/?abc=123'>>
+*****************
+
+__setattr__
+<method-wrapper '__setattr__' of WSGIRequest object at 0x7afa7c68f6a0>
+*****************
+
+__sizeof__
+<built-in method __sizeof__ of WSGIRequest object at 0x7afa7c68f6a0>
+*****************
+
+__str__
+<method-wrapper '__str__' of WSGIRequest object at 0x7afa7c68f6a0>
+*****************
+
+__subclasshook__
+<built-in method __subclasshook__ of type object at 0x56ae269ffa30>
+*****************
+
+__weakref__
+None
+*****************
+
+_current_scheme_host
+http://localhost:8000
+*****************
+
+_encoding
+None
+*****************
+
+_get_full_path
+<bound method HttpRequest._get_full_path of <WSGIRequest: GET '/api/?abc=123'>>
+*****************
+
+_get_post
+<bound method WSGIRequest._get_post of <WSGIRequest: GET '/api/?abc=123'>>
+*****************
+
+_get_raw_host
+<bound method HttpRequest._get_raw_host of <WSGIRequest: GET '/api/?abc=123'>>
+*****************
+
+_get_scheme
+<bound method WSGIRequest._get_scheme of <WSGIRequest: GET '/api/?abc=123'>>
+*****************
+
+_initialize_handlers
+<bound method HttpRequest._initialize_handlers of <WSGIRequest: GET '/api/?abc=123'>>
+*****************
+
+_load_post_and_files
+<bound method HttpRequest._load_post_and_files of <WSGIRequest: GET '/api/?abc=123'>>
+*****************
+
+_mark_post_parse_error
+<bound method HttpRequest._mark_post_parse_error of <WSGIRequest: GET '/api/?abc=123'>>
+*****************
+
+_messages
+<FallbackStorage: request=<WSGIRequest: GET '/api/?abc=123'>>
+*****************
+
+_read_started
+False
+*****************
+
+_set_content_type_params
+<bound method HttpRequest._set_content_type_params of <WSGIRequest: GET '/api/?abc=123'>>
+*****************
+
+_set_post
+<bound method WSGIRequest._set_post of <WSGIRequest: GET '/api/?abc=123'>>
+*****************
+
+_stream
+<django.core.handlers.wsgi.LimitedStream object at 0x7afa7c68f880>
+*****************
+
+_upload_handlers
+[]
+*****************
+
+accepted_types
+[<MediaType: */*>]
+*****************
+
+accepts
+<bound method HttpRequest.accepts of <WSGIRequest: GET '/api/?abc=123'>>
+*****************
+
+auser
+functools.partial(<function auser at 0x7afa7cf4ee60>, <WSGIRequest: GET '/api/?abc=123'>)
+*****************
+
+body
+b''
+*****************
+
+build_absolute_uri
+<bound method HttpRequest.build_absolute_uri of <WSGIRequest: GET '/api/?abc=123'>>
+*****************
+
+close
+<bound method HttpRequest.close of <WSGIRequest: GET '/api/?abc=123'>>
+*****************
+
+content_params
+{}
+*****************
+
+content_type
+text/plain
+*****************
+
+csrf_processing_done
+True
+*****************
+
+encoding
+None
+*****************
+
+environ
+{'SHELL': '/bin/bash', 'SESSION_MANAGER': 'local/phenixServer:@/tmp/.ICE-unix/2427,unix/phenixServer:/tmp/.ICE-unix/2427', 'QT_ACCESSIBILITY': '1', 'COLORTERM': 'truecolor', 'PYENV_SHELL': 'bash', 'XDG_CONFIG_DIRS': '/etc/xdg/xdg-ubuntu:/etc/xdg', 'SSH_AGENT_LAUNCHER': 'gnome-keyring', 'NVM_INC': '/home/phenix/.nvm/versions/node/v17.0.1/include/node', 'XDG_MENU_PREFIX': 'gnome-', 'TERM_PROGRAM_VERSION': '1.89.1', 'XDG_CONFIG_DIRS_VSCODE_SNAP_ORIG': '/etc/xdg/xdg-ubuntu:/etc/xdg', 'GNOME_DESKTOP_SESSION_ID': 'this-is-deprecated', 'GDK_BACKEND_VSCODE_SNAP_ORIG': '', 'LANGUAGE': 'en_US:en', 'LC_ADDRESS': 'en_US.UTF-8', 'GIO_MODULE_DIR_VSCODE_SNAP_ORIG': '', 'GNOME_SHELL_SESSION_MODE': 'ubuntu', 'LC_NAME': 'en_US.UTF-8', 'SSH_AUTH_SOCK': '/run/user/1000/keyring/ssh', 'OPENAI_API_KEY': 'api_key_removed', 'XMODIFIERS': '@im=ibus', 'DESKTOP_SESSION': 'ubuntu', 'LC_MONETARY': 'en_US.UTF-8', 'BAMF_DESKTOP_FILE_HINT': '/var/lib/snapd/desktop/applications/code_code.desktop', 'GTK_MODULES': 'gail:atk-bridge', 'DBUS_STARTER_BUS_TYPE': 'session', 'PWD': '/home/phenix/Desktop/New Skills/DRF/drf-algolia/backend', 'PYENV_VIRTUALENV_INIT': '1', 'GSETTINGS_SCHEMA_DIR': '/home/phenix/snap/code/159/.local/share/glib-2.0/schemas', 'XDG_SESSION_DESKTOP': 'ubuntu', 'LOGNAME': 'phenix', 'GTK_EXE_PREFIX': '/snap/code/159/usr', 'XDG_SESSION_TYPE': 'wayland', 'SYSTEMD_EXEC_PID': '2427', 'XAUTHORITY': '/run/user/1000/.mutter-Xwaylandauth.8C5DO2', 'VSCODE_GIT_ASKPASS_NODE': '/snap/code/159/usr/share/code/code', 'IM_CONFIG_CHECK_ENV': '1', 'HOME': '/home/phenix', 'USERNAME': 'phenix', 'IM_CONFIG_PHASE': '1', 'LC_PAPER': 'en_US.UTF-8', 'LANG': 'en_US.UTF-8', 'LS_COLORS': 'rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.webp=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:', 'XDG_CURRENT_DESKTOP': 'Unity', 'VIRTUAL_ENV': '/home/phenix/Desktop/New Skills/DRF/drf-algolia/valgolia', 'WAYLAND_DISPLAY': 'wayland-0', 'GIT_ASKPASS': '/snap/code/159/usr/share/code/resources/app/extensions/git/dist/askpass.sh', 'INVOCATION_ID': '2f043118ee404242aa385bd66fae5c51', 'MANAGERPID': '2240', 'CHROME_DESKTOP': 'code-url-handler.desktop', 'NVM_DIR': '/home/phenix/.nvm', 'VSCODE_GIT_ASKPASS_EXTRA_ARGS': '', 'GNOME_SETUP_DISPLAY': ':1', 'GSETTINGS_SCHEMA_DIR_VSCODE_SNAP_ORIG': '', 'GTK_IM_MODULE_FILE_VSCODE_SNAP_ORIG': '', 'LESSCLOSE': '/usr/bin/lesspipe %s %s', 'XDG_SESSION_CLASS': 'user', 'TERM': 'xterm-256color', 'LC_IDENTIFICATION': 'en_US.UTF-8', 'GTK_PATH': '/snap/code/159/usr/lib/x86_64-linux-gnu/gtk-3.0', 'LESSOPEN': '| /usr/bin/lesspipe %s', 'USER': 'phenix', 'GTK_PATH_VSCODE_SNAP_ORIG': '', 'VSCODE_GIT_IPC_HANDLE': '/run/user/1000/vscode-git-1270faf47c.sock', 'DISPLAY': ':0', 'SHLVL': '2', 'NVM_CD_FLAGS': '', 'LOCPATH': '/snap/code/159/usr/lib/locale', 'LC_TELEPHONE': 'en_US.UTF-8', 'QT_IM_MODULE': 'ibus', 'LC_MEASUREMENT': 'en_US.UTF-8', 'GTK_EXE_PREFIX_VSCODE_SNAP_ORIG': '', 'PAPERSIZE': 'letter', 'DBUS_STARTER_ADDRESS': 'unix:path=/run/user/1000/bus,guid=9a76e47ed0cfa5af7ad77c3f6656e5d2', 'VIRTUAL_ENV_PROMPT': '(valgolia) ', 'XDG_RUNTIME_DIR': '/run/user/1000', 'PS1': '\\[\x1b]633;A\x07\\](valgolia) \\[\\e]0;\\u@\\h: \\w\\a\\]${debian_chroot:+($debian_chroot)}\\[\\033[01;32m\\]\\u@\\h\\[\\033[00m\\]:\\[\\033[01;34m\\]\\w\\[\\033[00m\\]\\$ \\[\x1b]633;B\x07\\]', 'XDG_DATA_DIRS_VSCODE_SNAP_ORIG': '/usr/share/ubuntu:/usr/local/share/:/usr/share/:/var/lib/snapd/desktop', 'LC_TIME': 'en_US.UTF-8', 'VSCODE_GIT_ASKPASS_MAIN': '/snap/code/159/usr/share/code/resources/app/extensions/git/dist/askpass-main.js', 'JOURNAL_STREAM': '8:33586', 'XDG_DATA_DIRS': '/home/phenix/snap/code/159/.local/share:/home/phenix/snap/code/159:/snap/code/159/usr/share:/usr/share/ubuntu:/usr/local/share/:/usr/share/:/var/lib/snapd/desktop', 'GDK_BACKEND': 'x11', 'PATH': '/home/phenix/.vscode/extensions/ms-python.python-2024.6.0/python_files/deactivate/bash:/home/phenix/Desktop/New Skills/DRF/drf-algolia/valgolia/bin:/home/phenix/.pyenv/plugins/pyenv-virtualenv/shims:/home/phenix/.pyenv/shims:~/.pyenv/bin:/home/phenix/.vscode/extensions/ms-python.python-2024.6.0/python_files/deactivate/bash:/home/phenix/Desktop/New Skills/DRF/drf-algolia/valgolia/bin:/home/phenix/.local/bin:/home/phenix/.pyenv/plugins/pyenv-virtualenv/shims:~/.pyenv/bin:/home/phenix/.nvm/versions/node/v17.0.1/bin:/home/phenix/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/snap/bin', 'GDMSESSION': 'ubuntu', 'ORIGINAL_XDG_CURRENT_DESKTOP': 'ubuntu:GNOME', 'GTK_IM_MODULE_FILE': '/home/phenix/snap/code/common/.cache/immodules/immodules.cache', 'DBUS_SESSION_BUS_ADDRESS': 'unix:path=/run/user/1000/bus,guid=9a76e47ed0cfa5af7ad77c3f6656e5d2', 'NVM_BIN': '/home/phenix/.nvm/versions/node/v17.0.1/bin', 'LOCPATH_VSCODE_SNAP_ORIG': '', 'GIO_MODULE_DIR': '/home/phenix/snap/code/common/.cache/gio-modules', 'GIO_LAUNCHED_DESKTOP_FILE_PID': '13555', 'GIO_LAUNCHED_DESKTOP_FILE': '/var/lib/snapd/desktop/applications/code_code.desktop', 'LC_NUMERIC': 'en_US.UTF-8', 'TERM_PROGRAM': 'vscode', '_': '/home/phenix/Desktop/New Skills/DRF/drf-algolia/valgolia/bin/python', 'DJANGO_SETTINGS_MODULE': 'algolia.settings', 'TZ': 'UTC', 'RUN_MAIN': 'true', 'SERVER_NAME': 'localhost', 'GATEWAY_INTERFACE': 'CGI/1.1', 'SERVER_PORT': '8000', 'REMOTE_HOST': '', 'CONTENT_LENGTH': '', 'SCRIPT_NAME': '', 'SERVER_PROTOCOL': 'HTTP/1.1', 'SERVER_SOFTWARE': 'WSGIServer/0.2', 'REQUEST_METHOD': 'GET', 'PATH_INFO': '/api/', 'QUERY_STRING': 'abc=123', 'REMOTE_ADDR': '127.0.0.1', 'CONTENT_TYPE': 'text/plain', 'HTTP_HOST': 'localhost:8000', 'HTTP_USER_AGENT': 'python-requests/2.32.2', 'HTTP_ACCEPT_ENCODING': 'gzip, deflate', 'HTTP_ACCEPT': '*/*', 'HTTP_CONNECTION': 'keep-alive', 'wsgi.input': <django.core.handlers.wsgi.LimitedStream object at 0x7afa7c68f580>, 'wsgi.errors': <_io.TextIOWrapper name='<stderr>' mode='w' encoding='utf-8'>, 'wsgi.version': (1, 0), 'wsgi.run_once': False, 'wsgi.url_scheme': 'http', 'wsgi.multithread': True, 'wsgi.multiprocess': False, 'wsgi.file_wrapper': <class 'wsgiref.util.FileWrapper'>}
+*****************
+
+get_full_path
+<bound method HttpRequest.get_full_path of <WSGIRequest: GET '/api/?abc=123'>>
+*****************
+
+get_full_path_info
+<bound method HttpRequest.get_full_path_info of <WSGIRequest: GET '/api/?abc=123'>>
+*****************
+
+get_host
+<bound method HttpRequest.get_host of <WSGIRequest: GET '/api/?abc=123'>>
+*****************
+
+get_port
+<bound method HttpRequest.get_port of <WSGIRequest: GET '/api/?abc=123'>>
+*****************
+
+get_signed_cookie
+<bound method HttpRequest.get_signed_cookie of <WSGIRequest: GET '/api/?abc=123'>>
+*****************
+
+headers
+{'Content-Length': '', 'Content-Type': 'text/plain', 'Host': 'localhost:8000', 'User-Agent': 'python-requests/2.32.2', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive'}
+*****************
+
+is_secure
+<bound method HttpRequest.is_secure of <WSGIRequest: GET '/api/?abc=123'>>
+*****************
+
+method
+GET
+*****************
+
+parse_file_upload
+<bound method HttpRequest.parse_file_upload of <WSGIRequest: GET '/api/?abc=123'>>
+*****************
+
+path
+/api/
+*****************
+
+path_info
+/api/
+*****************
+
+read
+<bound method HttpRequest.read of <WSGIRequest: GET '/api/?abc=123'>>
+*****************
+
+readline
+<bound method HttpRequest.readline of <WSGIRequest: GET '/api/?abc=123'>>
+*****************
+
+readlines
+<bound method HttpRequest.readlines of <WSGIRequest: GET '/api/?abc=123'>>
+*****************
+
+resolver_match
+ResolverMatch(func=api.views.api_home, args=(), kwargs={}, url_name=None, app_names=[], namespaces=[], route='api/')
+*****************
+
+scheme
+http
+*****************
+
+session
+<django.contrib.sessions.backends.db.SessionStore object at 0x7afa7c68f8e0>
+*****************
+
+upload_handlers
+[<django.core.files.uploadhandler.MemoryFileUploadHandler object at 0x7afa7c68fd00>, <django.core.files.uploadhandler.TemporaryFileUploadHandler object at 0x7afa7c68fdf0>]
+*****************
+
+user
+AnonymousUser
+*****************
+
